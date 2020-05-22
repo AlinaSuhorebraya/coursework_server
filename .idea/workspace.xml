@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f05a6d9-33cf-4295-ae24-76a08f207ae2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1anVaIhk1UEITM30ol8JnpsJNFV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kursach4sem" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.19770116" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ServerStarter" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.ServerStarter" />
+      <module name="server4sem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.ServerStarter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f05a6d9-33cf-4295-ae24-76a08f207ae2" name="Default Changelist" comment="" />
+      <created>1587371406681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587371406681</updated>
+      <workItem from="1588684728062" duration="126000" />
+      <workItem from="1588684890022" duration="194000" />
+      <workItem from="1588686781354" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587481427184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587481427184" />
+    <state x="127" y="82" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1587481309740">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="127" y="82" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1587481309740" />
+    <state x="400" y="198" key="FileChooserDialogImpl" timestamp="1590177380063">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="400" y="198" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590177380063" />
+    <state width="724" height="200" key="GridCell.Tab.0.bottom" timestamp="1589791096847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="200" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589791096847" />
+    <state width="724" height="200" key="GridCell.Tab.0.center" timestamp="1589791096847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="200" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589791096847" />
+    <state width="724" height="200" key="GridCell.Tab.0.left" timestamp="1589791096847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="200" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589791096847" />
+    <state width="724" height="200" key="GridCell.Tab.0.right" timestamp="1589791096847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="200" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589791096847" />
+    <state width="1493" height="251" key="GridCell.Tab.1.bottom" timestamp="1588856291865">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588856291865" />
+    <state width="1493" height="251" key="GridCell.Tab.1.center" timestamp="1588856291865">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588856291865" />
+    <state width="1493" height="251" key="GridCell.Tab.1.left" timestamp="1588856291865">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588856291865" />
+    <state width="1493" height="251" key="GridCell.Tab.1.right" timestamp="1588856291865">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588856291865" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1587724934189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587724934188" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1588684890656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588684890656" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/dao/alternatives/AlternativesDAOImpl.java</url>
+          <line>155</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
